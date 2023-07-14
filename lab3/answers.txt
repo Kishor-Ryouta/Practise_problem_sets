@@ -1,0 +1,23 @@
+sort1 uses: bubble sort
+
+How do you know?: when sorted algorithm was run it's run time was the lowest which is a pro for bubble sort
+random5000 - 0.058s
+random10000 - 0.589s
+reversed10000 - 0.345s
+sorted10000 - 0.033s
+
+sort2 uses:  merge sort
+
+How do you know?: Because it takes the shortest run time compared to sort 1 and sort 3.
+random5000 - 0.015s
+random10000 - 0.111s
+reversed10000 - 0.021s
+sorted10000 - 0.022s
+
+sort3 uses: selection sort
+
+How do you know?: the run time of sorted algorithm was higher compared to sort 1.
+random5000 - 0.032s
+random10000 - 0.169s
+reversed10000 - 0.244s
+sorted10000 - 0.232s
